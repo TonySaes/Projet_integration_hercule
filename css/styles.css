@@ -222,7 +222,7 @@ body {
 /*
     Styles pour les écrans de moins de 1200px de large :
 */
-@media (max-width: 1200px) {
+@media (max-width: 1024px) {
     .content-focus {
     display:block;
     }
@@ -254,7 +254,7 @@ body {
 /*
     Styles pour les écrans de moins de 900px de large :
 */
-@media (max-width: 900px) {
+@media (max-width: 768px) {
     .header {
         position:static;
         width:auto;
